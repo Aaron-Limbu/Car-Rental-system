@@ -1,0 +1,29 @@
+98FA, Toyota, Corolla, 2019, 50, Not Available
+AD58, Mercedes, E-Class, 2019, 120, Available
+T792, Honda, Civic, 2020, 60, Available
+K4L7, Ford, Mustang, 2018, 100, Available
+P0E3, BMW, X5, 2021, 150, Available
+L9Z6, Audi, A4, 2020, 80, Available
+R1B5, Volkswagen, Golf, 2017, 70, Not Available
+Q8C2, Chevrolet, Camaro, 2020, 110, Available
+N3M9, Subaru, Outback, 2019, 90, Available
+G6T4, Hyundai, Sonata, 2020, 70, Not Available
+S5P1, Kia, Sportage, 2018, 80, Available
+W2H8, Nissan, Altima, 2020, 75, Available
+E7Y6, Mazda, CX-5, 2019, 85, Available
+Z0X9, Lexus, RX, 2021, 140, Available
+F4R2, Infiniti, Q50, 2018, 95, Available
+V9D3, Jaguar, XF, 2020, 130, Not Available
+U1K2, Land Rover, Range Rover Evoque, 2019, 180, Available
+M8N4, Tesla, Model S, 2020, 200, Available
+C3A9, Ferrari, 488 GTB, 2019, 300, Available
+I5O6, Lamborghini, Huracan, 2018, 350, Not Available
+O2P5, Aston Martin, Vantage, 2021, 250, Available
+B9W8, Rolls-Royce, Phantom, 2020, 500, Available
+A1Z8, Bentley, Continental GT, 2019, 400, Available
+X3Y6, Maserati, GranTurismo, 2018, 350, Available
+H4V6, Bugatti, Chiron, 2021, 1000, Available
+T7Q4, Pagani, Huayra, 2019, 800, Available
+N5E6, Koenigsegg, Agera RS, 2017, 1500, Not Available
+W8R4, McLaren, 720S, 2020, 300, Available
+P3S6, Porsche, 911, 2021, 180, Available
